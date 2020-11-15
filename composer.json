@@ -1,0 +1,20 @@
+{
+    "name": "saif/contact",
+    "description": "This will send email to admin and save contact queryin database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "saif",
+            "email": "syful.cse.bd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Saif\\Contact\\": "src/"
+        }
+    }
+}
